@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/react-frontend/react-frontend.iml" filepath="$PROJECT_DIR$/react-frontend/react-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-react-docker.iml" filepath="$PROJECT_DIR$/spring-react-docker.iml" />
+    </modules>
+  </component>
+</project>
